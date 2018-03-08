@@ -1,0 +1,4 @@
+LoraServerSample/LoraServerSample/obj/
+LoraServerSample/LoraServerSample/bin/
+*.[exe]
+!LoraServerSample.exe
